@@ -11,7 +11,7 @@
 
 <div class=container>
     <div class=popup>
-        <img class=hf src="/huggingface.svg" /> <span class=plus>+</span> <img class=sketchfab src="/sketchfab-logo.svg" />
+        <img class=hf src="./huggingface.svg" /> <span class=plus>+</span> <img class=sketchfab src="./sketchfab-logo.svg" />
         <p class=subtitle>A <span class=sketchfab>Sketchfab</span> + <span class=huggingface>Huggingface</span> experiment</p>
         <p class=desc>This demo uses the Huggingface inference API to trigger animations on a Sketchfab model.</p>
         <button class=button on:click|preventDefault={handleContinue}>Let's Go !</button>

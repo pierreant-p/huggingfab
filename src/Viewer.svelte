@@ -166,7 +166,7 @@
  }
 
  .loading-logo, .loading-logo-grayscale  {
-     background: url(/huggingface.svg) center center no-repeat;
+     background: url(../huggingface.svg) center center no-repeat;
      margin-left: 30px;
      height: 120px;
      width: 120px;
